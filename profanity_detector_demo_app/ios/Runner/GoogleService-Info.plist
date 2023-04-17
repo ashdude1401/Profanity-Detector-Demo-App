@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>356218597939-2msq6is7mh3k1ifq3tkflrcce9ehlgi4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.356218597939-2msq6is7mh3k1ifq3tkflrcce9ehlgi4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChgKmrk_O8f2U7ExA0A52j0XcmC1daiQ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>356218597939</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.profanityDetectorDemoApp</string>
+	<key>PROJECT_ID</key>
+	<string>profanity-checker-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>profanity-checker-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:356218597939:ios:8f1a2c10697ed7da1aa946</string>
+</dict>
+</plist>

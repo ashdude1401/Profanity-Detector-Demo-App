@@ -6,8 +6,11 @@ class ImageController extends GetxController {
 
   Future pickImage() async {
     final ImagePicker picker = ImagePicker();
-    XFile? image = await picker.pickImage(source: ImageSource.gallery);
-    if(image==null) return;
+    XFile? image = await picker.pickImage(
+      source: ImageSource.gallery,
+      imageQuality: 50,
+    );
+    if (image == null) return;
     imagePath.value = image.path;
   }
 }
