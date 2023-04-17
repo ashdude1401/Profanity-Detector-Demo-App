@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "356218597939",
+    "project_id": "profanity-checker-app",
+    "storage_bucket": "profanity-checker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356218597939:android:fd714d3ad9ddbf371aa946",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356218597939-n670lv6q4en37obpk124gbgh3huc8hra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Yy_sUg1DP1zJ2rWKXmtRVBar-FdTCjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356218597939-n670lv6q4en37obpk124gbgh3huc8hra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356218597939:android:ece52e5b6b5d3b891aa946",
+        "android_client_info": {
+          "package_name": "com.example.profanity_detector_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356218597939-n670lv6q4en37obpk124gbgh3huc8hra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Yy_sUg1DP1zJ2rWKXmtRVBar-FdTCjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356218597939-n670lv6q4en37obpk124gbgh3huc8hra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

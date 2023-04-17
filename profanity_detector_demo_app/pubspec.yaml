@@ -39,6 +39,8 @@ dependencies:
   get: ^4.6.5
   image_picker: ^0.8.7+3
   profanity_filter: ^2.0.0
+  firebase_core: ^2.9.0
+  firebase_storage: ^11.1.0
 
 dev_dependencies:
   flutter_test:
